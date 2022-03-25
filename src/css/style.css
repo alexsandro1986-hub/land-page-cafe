@@ -42,7 +42,7 @@ body{
 }
 
 .painel{
-    background: url(..//images/painel.jpg) center center no-repeat;
+    background: url(../images/painel.jpg) center center no-repeat;
     height: 600px;
 }
 
@@ -83,26 +83,26 @@ body{
 }
 
 .ladrilho .grande{
-    background: url(/src/images/4.jpg) center center no-repeat;
+    background: url(src/images/4.jpg) center center no-repeat;
     height: 600px;
     width: 50%;
 
 }
 
 .ladrilho .pequeno-cafe{
-    background: url(/src/images/3.jpg) center center no-repeat;
+    background: url(src/images/3.jpg) center center no-repeat;
     height: 300px;
     width: 25%;
 
 }
 .ladrilho .pequeno{
-    background: url(/src/images/2.jpg)center center no-repeat;
+    background: url(src/images/2.jpg)center center no-repeat;
     height: 300px;
     width: 25%;
 
 }
 .ladrilho .medio{
-    background: url(/src/images/1.jpg) center center no-repeat;
+    background: url(src/images/1.jpg) center center no-repeat;
     height: 300px;
     width: 50%;
 
@@ -132,7 +132,7 @@ body{
 }
 
 .rodape{
-    background: url(/src/images/fundo-rodape.jpg) center center no-repeat;
+    background: url(src/images/fundo-rodape.jpg) center center no-repeat;
     padding: 35px 30px;
     background-size: cover;
 
