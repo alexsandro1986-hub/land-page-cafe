@@ -83,26 +83,26 @@ body{
 }
 
 .ladrilho .grande{
-    background: url(/src/images/4.jpg) center center no-repeat;
+    background: url(../images/4.jpg) center center no-repeat;
     height: 600px;
     width: 50%;
 
 }
 
 .ladrilho .pequeno-cafe{
-    background: url(/src/images/3.jpg) center center no-repeat;
+    background: url(../images/3.jpg) center center no-repeat;
     height: 300px;
     width: 25%;
 
 }
 .ladrilho .pequeno{
-    background: url(/src/images/2.jpg)center center no-repeat;
+    background: url(../images/2.jpg)center center no-repeat;
     height: 300px;
     width: 25%;
 
 }
 .ladrilho .medio{
-    background: url(/src/images/1.jpg) center center no-repeat;
+    background: url(../images/1.jpg) center center no-repeat;
     height: 300px;
     width: 50%;
 
