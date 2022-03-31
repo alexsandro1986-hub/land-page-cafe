@@ -96,7 +96,7 @@ body{
 
 }
 .ladrilho .pequeno{
-    background: url(../images/2.jpg)center center no-repeat;
+    background: url(../images/2.jpg) center center no-repeat;
     height: 300px;
     width: 25%;
 
