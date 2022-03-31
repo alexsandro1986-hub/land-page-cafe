@@ -83,7 +83,7 @@ body{
 }
 
 .ladrilho .grande{
-    background: url(/src/images/4.jpg) center center no-repeat;
+    background: url(../images/4.jpg) center center no-repeat;
     height: 600px;
     width: 50%;
 
